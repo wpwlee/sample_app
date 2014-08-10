@@ -1,5 +1,6 @@
-# Ignore bundler config.
+# Ignore bundler config and bundled gems
 /.bundle
+/vendor/bundle
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
